@@ -1,4 +1,8 @@
-## Hi there 👋
+<!-- ## Hi there 👋 -->
+
+# <p align="center">Hi 👋, I'm Nathan
+  
+# <p align="center">A passionate Python & JavaScript developer</p>
 
 <!--
 **PandaSkys/PandaSkys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
