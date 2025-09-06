@@ -1,7 +1,7 @@
 <!-- Banner / Intro -->
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=32&pause=1000&color=4497F7&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nathan;Computer+Science+Student;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+code&size=32&pause=1000&color=4497F7&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Nathan;Computer+Science+Student;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
