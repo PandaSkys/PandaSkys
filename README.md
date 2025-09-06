@@ -48,7 +48,7 @@
 
 <div align="center">
 
-![snake animation](https://github.com/PandaSkys/PandaSkys/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://github.com/PandaSkys/PandaSkys/blob/output/github-snake-dark.svg)
 
 </div>
 
