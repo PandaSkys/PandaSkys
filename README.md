@@ -10,7 +10,7 @@
 <!-- About Me -->
 ## ✨ About Me  
 
-- 🎓 I'm a **17-year-old Computer Science student** from Belgium.  
+- 🎓 I'm a **18-year-old Computer Science student** from Belgium.  
 - 💡 Passionate about **software development, web apps, and open-source**.  
 - 🚀 Currently building projects to sharpen my skills and contribute to the dev community.  
 - 💻 *"Code, sleep, repeat."*  
